@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)file:///C:/Users/Dora/Desktop/projetsitter/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Pro-Sitters</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="./sitter11_files/css" rel="stylesheet">
+    <link href="./sitter11_files/css(1)" rel="stylesheet">
+	<link rel="stylesheet" href="./sitter11_files/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous">
+    <link rel="stylesheet" href="./sitter11_files/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="./sitter11_files/animate.css">
+    
+    <link rel="stylesheet" href="./sitter11_files/owl.carousel.min.css">
+    <link rel="stylesheet" href="./sitter11_files/owl.theme.default.min.css">
+    <link rel="stylesheet" href="./sitter11_files/magnific-popup.css">
+
+    <link rel="stylesheet" href="./sitter11_files/aos.css">
+
+    <link rel="stylesheet" href="./sitter11_files/ionicons.min.css">
+    
+    <link rel="stylesheet" href="./sitter11_files/flaticon.css">
+    <link rel="stylesheet" href="./sitter11_files/icomoon.css">
+    <link rel="stylesheet" href="./sitter11_files/style.css">
+	<script src="./sitter11_files/script.js.télécharger"></script>
+  <style type="text/css">.scrollax-performance, .scrollax-performance *, .scrollax-performance *:before, .scrollax-performance *:after { pointer-events: none !important; -webkit-animation-play-state: paused !important; animation-play-state: paused !important; };</style><script type="text/javascript" charset="UTF-8" src="./sitter11_files/common.js.télécharger"></script><script type="text/javascript" charset="UTF-8" src="./sitter11_files/util.js.télécharger"></script></head>
+  <body data-aos-easing="slide" data-aos-duration="800" data-aos-delay="0">
+	
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light scrolled awake" id="ftco-navbar">
+	    <div class="container d-flex align-items-center">
+	    	<a class="navbar-brand" href="file:///C:/Users/Dora/Desktop/projetsitter/index.html"><img src="./sitter11_files/LOGO.SITTER.jpg" alt="" style="padding-right: 40px; width: 150px;"></a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav ml-auto" id="header">
+    
+        <li class="nav-item active"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html" class="nav-link pl-0" style="font-size: 20px;">HOME</a></li>
+    
+                    <li class="nav-item active"><a href="file:///C:/Users/Dora/Desktop/projetsitter/sitters.html" class="nav-link" style="font-size: 20px;">SITTERS</a></li>
+                    <li class="nav-item active"><a href="file:///C:/Users/Dora/Desktop/projetsitter/dashboardParents.html" class="nav-link" style="font-size: 20px;">APPOINTMENTS</a></li>
+                    <li class="nav-item active"><a class="nav-link" style="font-size: 20px;">Hello IMED</a></li>
+
+                    <li class="nav-item active"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#%20class=" nav-link"="" style="font-size: 20px;"><button type="button" class="btn btn-primary" onclick="logOut()">LogOut</button> </a></li>
+        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    <!-- END nav -->
+    
+    <section class="home-slider owl-carousel owl-loaded owl-drag">
+      
+
+      
+    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-4047px, 0px, 0px); transition: all 0s ease 0s; width: 8094px;"><div class="owl-item cloned" style="width: 1349px;"><div class="slider-item" style="background-image:url(baby2.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate fadeInUp ftco-animated">
+            <h1 class="mb-4">Kids Are The Best <span>Explorers In The World</span></h1>
+            
+          </div>
+        </div>
+        </div>
+      </div></div><div class="owl-item cloned" style="width: 1349px;"><div class="slider-item" style="background-image:url(BABY4.JPG);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate fadeInUp ftco-animated">
+            <h1 class="mb-4">Perfect Learned<span> For Your Child</span></h1>
+            <p><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div></div><div class="owl-item" style="width: 1349px;"><div class="slider-item" style="background-image:url(baby2.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate fadeInUp ftco-animated">
+            <h1 class="mb-4">Kids Are The Best <span>Explorers In The World</span></h1>
+            
+          </div>
+        </div>
+        </div>
+      </div></div><div class="owl-item active" style="width: 1349px;"><div class="slider-item" style="background-image:url(BABY4.JPG);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate fadeInUp ftco-animated">
+            <h1 class="mb-4">Perfect Learned<span> For Your Child</span></h1>
+            <p><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div></div><div class="owl-item cloned" style="width: 1349px;"><div class="slider-item" style="background-image:url(baby2.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate fadeInUp ftco-animated">
+            <h1 class="mb-4">Kids Are The Best <span>Explorers In The World</span></h1>
+            
+          </div>
+        </div>
+        </div>
+      </div></div><div class="owl-item cloned" style="width: 1349px;"><div class="slider-item" style="background-image:url(BABY4.JPG);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate fadeInUp ftco-animated">
+            <h1 class="mb-4">Perfect Learned<span> For Your Child</span></h1>
+            <p><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div></div></div></div><div class="owl-nav disabled"><button role="presentation" class="owl-prev"><span class="ion-md-arrow-back"></span></button><button role="presentation" class="owl-next"><span class="ion-chevron-right"></span></button></div><div class="owl-dots"><button class="owl-dot"><span></span></button><button class="owl-dot active"><span></span></button></div></section>
+
+    <section class="ftco-services ftco-no-pb">
+			<div class="container-wrap">
+				<div class="row no-gutters">
+          <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-primary fadeInUp ftco-animated">
+            <div class="media block-6 d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+				  
+            		<span class="flaticon-teacher"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Certified Sitter</h3>
+                <p>Advanced child care certification shows parents that you take jobseriously.</p>
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-tertiary fadeInUp ftco-animated">
+            <div class="media block-6 d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-reading"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Authentic Sitter</h3>
+                <p> Pro sitter allows you to search for sitters by location,experience,specific skills,and rates .</p>
+              </div>
+            </div>    
+          </div>
+          <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-fifth fadeInUp ftco-animated">
+            <div class="media block-6 d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-books"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">How we choose Top-Sitter</h3>
+                <p>Tshose the best sitter, we talked to parents and reviewed online testimonials.we also considered reputation,accessibility,services offered,fees and technology.</p>
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-quarternary fadeInUp ftco-animated">
+            <div class="media block-6 d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-diploma"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Our safety measures</h3>
+                <p>Our dedicated team champions safety procedures accross our website every day.we also offer a suite of screening tools that allow families to hire their sitter with confidence.</p>
+            </div>      
+          </div>
+        </div>
+			</div>
+		</div></section>
+		
+		<section class="ftco-section ftco-no-pt ftc-no-pb">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 order-md-last wrap-about py-5 wrap-about bg-light">
+						<div class="text px-4 ftco-animate fadeInUp ftco-animated">
+							<img src="./sitter11_files/image9.jpg" alt="" style="width: 650px;">
+	          	
+						</div>
+					</div>
+					<div class="col-md-6 wrap-about py-5 pr-md-4 ftco-animate fadeInUp ftco-animated" style="margin-top: 80px;">
+						<h1 style="color: rgb(115, 157, 247); text-align: center;"><span style="color: red;">OUR</span> STORY</h1>
+
+
+
+						<p>As busy parents, we know that life is a balancing act and you need childcare that's reliable, trustworthy, and available‚ even at the last minute. That's why we've completely reinvented the process of finding a babysitter, so with a tap you can hire the sitters most trusted by your local community of parent-friends and neighbors.
+
+							We've also eliminated the hassle that comes along with hiring a babysitter, from scheduling to payment, so all you have to do is say "yes" to date nights, parent-teacher conferences, time for yourself and time with friends. At pro-sitter, we celebrate parents who take care of their kids and themselves. Our hats are off to you‚ the ones who pull off the world's greatest balancing act.
+						
+						
+					</p></div>
+				</div>
+			</div>
+		</section>
+		
+		<section class="ftco-intro" style="background-image: url(&quot;images/bg_3.jpg&quot;); background-position: 50% 568px;" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-9">
+						<h2>Teaching Your Child Some Good Manners</h2>
+						
+					</div>
+					<div class="col-md-3 d-flex align-items-center">
+						
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="ftco-section testimony-section bg-light">
+			<div class="container">
+			  <div class="row justify-content-center mb-5 pb-2">
+				<div class="col-md-8 text-center heading-section ftco-animate fadeInUp ftco-animated">
+				  <h2 class="mb-4"><span>What Parents</span> Says About Us</h2>
+				  
+				</div>
+			  </div>
+			  <div class="row ftco-animate justify-content-center fadeInUp ftco-animated">
+				<div class="col-md-12">
+				  <div class="carousel-testimony owl-carousel owl-loaded owl-drag">
+					
+					
+					
+					
+					
+				  <div class="owl-stage-outer"><div class="owl-stage" style="transition: all 0.25s ease 0s; width: 6765px; transform: translate3d(-1537px, 0px, 0px);"><div class="owl-item cloned" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-3.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p>Pro-Sitters a helpful parenting site, where he provides access to practical and relevant information for parents and caretakers who work hard to help children succeed. .</p>
+						  <p class="name">Mark Huff</p>
+						  <span class="position">Mother</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item cloned" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-4.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p> I found your tips so incredibly helpful, direct, clear, actionable and reasonable. Thanks for putting so much time into your website. I am so relived to have found such a valuable and helpful resource.".</p>
+						  <p class="name">Rodel Golez</p>
+						  <span class="position">Mother</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item cloned" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p>I am so relived to have found such a valuable and helpful resource.</p>
+						  <p class="name">Ken Bosh</p>
+						  <span class="position">Mother</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item active center" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p>"I am so blown away by Pro-Sitters that I felt absolutely compelled to tell you. I found your tips so incredibly helpful, direct, clear, actionable and reasonable. Thanks for putting so much time into your website. I am so relived to have found such a valuable and helpful resource.".</p>
+						  <p class="name">Racky Henderson</p>
+						  <span class="position">Father</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item active" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-2.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p>I founded Pro-Sitters in 2018 when I noticed there was a lack of quality babysitting information online that parents and babysitters could rely on. I decided to do something about it, and so, Pro-Sitter was born.</p>
+						  <p class="name">Henry Dee</p>
+						  <span class="position">Mother</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-3.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p>Pro-Sitters a helpful parenting site, where he provides access to practical and relevant information for parents and caretakers who work hard to help children succeed. .</p>
+						  <p class="name">Mark Huff</p>
+						  <span class="position">Mother</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-4.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p> I found your tips so incredibly helpful, direct, clear, actionable and reasonable. Thanks for putting so much time into your website. I am so relived to have found such a valuable and helpful resource.".</p>
+						  <p class="name">Rodel Golez</p>
+						  <span class="position">Mother</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p>I am so relived to have found such a valuable and helpful resource.</p>
+						  <p class="name">Ken Bosh</p>
+						  <span class="position">Mother</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item cloned" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p>"I am so blown away by Pro-Sitters that I felt absolutely compelled to tell you. I found your tips so incredibly helpful, direct, clear, actionable and reasonable. Thanks for putting so much time into your website. I am so relived to have found such a valuable and helpful resource.".</p>
+						  <p class="name">Racky Henderson</p>
+						  <span class="position">Father</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item cloned" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-2.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p>I founded Pro-Sitters in 2018 when I noticed there was a lack of quality babysitting information online that parents and babysitters could rely on. I decided to do something about it, and so, Pro-Sitter was born.</p>
+						  <p class="name">Henry Dee</p>
+						  <span class="position">Mother</span>
+						</div>
+					  </div>
+					</div></div><div class="owl-item cloned" style="width: 585px; margin-right: 30px;"><div class="item">
+					  <div class="testimony-wrap d-flex">
+						<div class="user-img mr-4" style="background-image: url(images/teacher-3.jpg)">
+						</div>
+						<div class="text ml-2 bg-light">
+							<span class="quote d-flex align-items-center justify-content-center">
+							<i class="icon-quote-left"></i>
+						  </span>
+						  <p>Pro-Sitters a helpful parenting site, where he provides access to practical and relevant information for parents and caretakers who work hard to help children succeed. .</p>
+						  <p class="name">Mark Huff</p>
+						  <span class="position">Mother</span>
+						</div>
+					  </div>
+					</div></div></div></div><div class="owl-nav disabled"><button role="presentation" class="owl-prev"><span class="ion-ios-arrow-back"></span></button><button role="presentation" class="owl-next"><span class="ion-ios-arrow-forward"></span></button></div><div class="owl-dots"><button class="owl-dot active"><span></span></button><button class="owl-dot"><span></span></button><button class="owl-dot"><span></span></button><button class="owl-dot"><span></span></button><button class="owl-dot"><span></span></button></div></div>
+				</div>
+			  </div>
+			</div>
+		  </section>
+		
+		<section class="ftco-section ftco-no-pb">
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2">
+            
+          <div class="col-md-8 text-center heading-section ftco-animate fadeInUp ftco-animated">
+            <h2 style="color: red;"><span style="color: rgb(0, 153, 255);">Certified </span>Sitters</h2>
+            <p style="color:black;">  Promote and facilitate your child's happiness and all-round development.</p>
+          </div>
+        </div>	
+				<div class="row">
+					<div class="col-md-6 col-lg-3 ftco-animate fadeInUp ftco-animated">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/teacher-6.jpg);"></div>
+							</div>
+							<div class="text pt-3 text-center">
+								<h3>BASMA BLEGHI</h3>
+								<span class="position mb-2" style="color: red;">Baby Sitter</span>
+								<div class="faded">
+									<p>My first priorit in babysitting is to keep kids safe.being a good babysitter means knowing how to handle everything from a splinder to areal emergency.</p>
+									<ul class="ftco-social text-center">
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+	              </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-3 ftco-animate fadeInUp ftco-animated">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/teacher-2.jpg);"></div>
+							</div>
+							<div class="text pt-3 text-center">
+								<h3>MIRA KHADRAOUI</h3>
+								<span class="position mb-2" style="color: red;">Nanny</span>
+								<div class="faded">
+									<p>As a daily full-time or part-time nanny ,i can hold a sole charge position,and work btween 8-10 hours per day during which i provide a safe, secure and loving environment for your children..</p>
+									<ul class="ftco-social text-center">
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+	              </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-3 ftco-animate fadeInUp ftco-animated">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/teacher-3.jpg);"></div>
+							</div>
+							<div class="text pt-3 text-center">
+								<h3>SELIMA MALEK</h3>
+								<span class="position mb-2" style="color: red;">child care</span>
+								<div class="faded">
+									<p>Whether you work full-time, a few hours a wek or have other outside commitments,i will be there to understand how your children grow and develop, provide them a stimulating environment and many ways to learn and know how to respond to your child's emotional needs.</p>
+									<ul class="ftco-social text-center">
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+	              </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-3 ftco-animate fadeInUp ftco-animated">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/teacher-4.jpg);"></div>
+							</div>
+							<div class="text pt-3 text-center">
+								<h3>MAYSOUN MRAD</h3>
+								<span class="position mb-2" style="color: red;">Care giver</span>
+								<div class="faded">
+									<p>As a child caregivers, i look after the basic needs of children,such as dressing,feeling and supervising their playtime.i also provide a beneficial learning environment and a safe "home away from home" for little ones .</p>
+									<ul class="ftco-social text-center">
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate fadeInUp ftco-animated"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+	              </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		
+
+		<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(&quot;images/bg_4.jpg&quot;); background-position: 50% -498.5px;" data-stellar-background-ratio="0.5">
+    	<div class="container">
+    		<div class="row justify-content-center mb-5 pb-2">
+          <div class="col-md-8 text-center heading-section heading-section-black ftco-animate">
+            <h2 style="color: red;color: rgb(115, 157, 247) rgb(115, 157, 247);"><span>10 Years of</span> Experience</h2>
+            <p>The basic building bloks of learning and socialization take place while they are quite young</p>
+        </div>	
+    		<div class="row d-md-flex align-items-center justify-content-center">
+    			<div class="col-lg-10">
+    				<div class="row d-md-flex align-items-center">
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="18">0</strong>
+		                <span style="color: red;">Certified Sitters</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="351">0</strong>
+		                <span style="color: red;">Happy Kids</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="564">0</strong>
+		                <span style="color: red;">Satisfied Parents</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="300">0</strong>
+		                <span style="color: red;">Awards Won</span>
+		              </div>
+		            </div>
+		          </div>
+	          </div>
+          </div>
+        </div>
+    	</div>
+    </div></section>
+
+   
+
+  
+
+    
+
+		
+
+		<section class="ftco-gallery">
+    	<div class="container-wrap">
+			<h1 style="text-align: center;color: rgb(0, 174, 255);margin-bottom: 2cm;">GALLERY</h1>
+    		<div class="row no-gutters">
+				
+					<div class="col-md-3 ftco-animate">
+						
+						<a href="file:///C:/Users/Dora/Desktop/projetsitter/images/image_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/course-1.jpg);">
+							<div class="icon mb-4 d-flex align-items-center justify-content-center">
+    						<span class="icon-instagram"></span>
+    					</div>
+						</a>
+					</div>
+					<div class="col-md-3 ftco-animate">
+						
+						<a href="file:///C:/Users/Dora/Desktop/projetsitter/images/image_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_2.jpg);">
+							<div class="icon mb-4 d-flex align-items-center justify-content-center">
+    						<span class="icon-instagram"></span>
+    					</div>
+						</a>
+					</div>
+					<div class="col-md-3 ftco-animate">
+						<a href="file:///C:/Users/Dora/Desktop/projetsitter/images/image_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_3.jpg);">
+							<div class="icon mb-4 d-flex align-items-center justify-content-center">
+    						<span class="icon-instagram"></span>
+    					</div>
+						</a>
+					</div>
+					<div class="col-md-3 ftco-animate">
+						<a href="file:///C:/Users/Dora/Desktop/projetsitter/images/image_4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/image_4.jpg);">
+							<div class="icon mb-4 d-flex align-items-center justify-content-center">
+    						<span class="icon-instagram"></span>
+    					</div>
+						</a>
+					</div>
+        </div>
+    	</div>
+    </section>
+
+		
+    <div class="section_footer " style="margin: 30px  0px;">
+		<div class="container"> 
+			<div class="footer_section_2">
+			  <div class="row">
+				  <div class="col-sm-6 col-md-6 col-lg-3">
+					<h2>Contact us</h2>
+						  <div class="contact_info">
+							  <p><span style="font-size: 20px; color: rgb(0, 153, 255);"> Address :</span> Rue De La Bourse Les Berges Du Lac2 </p>
+							  <p><span style="font-size: 20px;color: rgb(0, 153, 255);"> Phone :</span> +2 16 71 198 985</p>
+							  <p><span style="font-size: 20px;color: rgb(0, 153, 255);"> Email : </span>info@sitter.com </p>
+							</div>
+				   
+				  </div>
+				  <div class="col-sm-6 col-md-6 col-lg-3">
+					<h2 class="account_text">Links</h2>
+					<div class="image-icon"><img src="./sitter11_files/bulit-icon.png"><span class="fb_text" style="font-size: 20px;"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#">  Home</a></span></div>
+				  <div class="image-icon"><img src="./sitter11_files/bulit-icon.png"><span class="fb_text" style="font-size: 20px;"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#">  Sitters</a></span></div>
+				  <div class="image-icon"><img src="./sitter11_files/bulit-icon.png"><span class="fb_text" style="font-size: 20px;"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#">  Parents</a></span></div>
+				  <div class="image-icon"><img src="./sitter11_files/bulit-icon.png"><span class="fb_text" style="font-size: 20px;"><a href="file:///C:/Users/Dora/Desktop/projetsitter/index.html#">  Blog</a></span></div>
+				  </div>
+				  <div class="col-sm-6 col-md-6 col-lg-3">
+				  <h2 class="account_text">Follow Us</h2>
+				  
+				  <i class="fab fa-facebook" style="font-size: 25px;"><a href="https://www.facebook.com/index.php"><span style="font-size: 20px;">       Facebook</span></a></i>                                                                                      <br>      
+				  <i class="fab fa-twitter" style="font-size: 25px;"></i><a href="file:///C:/index.php"><span style="font-size: 20px;">       Twitter</span></a>                                                                                       <br>        
+				  <i class="fab fa-instagram" style="font-size: 25px;"></i><a href="https://www.facebook.com/index.php"><span style="font-size: 20px;">       Instagram</span></a>                                                                                       <br>     
+				  <i class="fab fa-youtube" style="font-size: 25px;"><a href="https://www.facebook.com/index.php"><span style="font-size: 20px;">       Youtube</span></a></i>                                                                                       <br>
+				  </div>
+			<div class="col-sm-6 col-md-6 col-lg-3">
+			  <h2 class="adderess_text">Newsletter</h2>
+			 <div> <input type="" class="email_text" placeholder="Enter Your Email" name="Enter Your Email" ;="" style="background-color: rgb(0, 174, 255); border: blue;border-radius: 20px; text-align: center;">  </div>
+			 <div style="margin-top: 20px;"><button class="btn btn-danger" style="margin-left: 40px;"><a href="file:///C:/Users/Dora/Desktop/projetsitter/registration.html">SUBSCRIBE</a></button></div>
+			  
+			</div>
+			</div>
+			</div>
+			</div>
+		</div>
+    
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"></circle><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"></circle></svg></div>
+
+
+  <script src="./sitter11_files/jquery.min.js.télécharger"></script>
+  <script src="./sitter11_files/jquery-migrate-3.0.1.min.js.télécharger"></script>
+  <script src="./sitter11_files/popper.min.js.télécharger"></script>
+  <script src="./sitter11_files/bootstrap.min.js.télécharger"></script>
+  <script src="./sitter11_files/jquery.easing.1.3.js.télécharger"></script>
+  <script src="./sitter11_files/jquery.waypoints.min.js.télécharger"></script>
+  <script src="./sitter11_files/jquery.stellar.min.js.télécharger"></script>
+  <script src="./sitter11_files/owl.carousel.min.js.télécharger"></script>
+  <script src="./sitter11_files/jquery.magnific-popup.min.js.télécharger"></script>
+  <script src="./sitter11_files/aos.js.télécharger"></script>
+  <script src="./sitter11_files/jquery.animateNumber.min.js.télécharger"></script>
+  <script src="./sitter11_files/scrollax.min.js.télécharger"></script>
+  <script src="./sitter11_files/js"></script>
+  <script src="./sitter11_files/google-map.js.télécharger"></script>
+  <script src="./sitter11_files/main.js.télécharger"></script>
+    <script>
+		dynamicHeader();
+	</script>
+  
+
+</body></html>
